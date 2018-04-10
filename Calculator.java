@@ -1,5 +1,9 @@
 import java.awt.*;
 import java.awt.event.*;
+
+/*
+@author:Vishal Singh
+*/
 class Calculator implements ActionListener
 {
 	String[] s1={"MC","MR","MS","M+","M-","7","8","9","CE","C","4","5","6","/","%","1","2","3","*","+","0",".","1/x","-","="};
